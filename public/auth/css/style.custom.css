@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, rgb(92, 113, 165), #0940f3);
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
